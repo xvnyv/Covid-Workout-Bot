@@ -1,0 +1,6 @@
+.env
+service_account_key.json
+.DS_Store
+.vscode
+__pycache__/*
+handlers/__pycache__/*
